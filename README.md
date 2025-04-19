@@ -58,7 +58,7 @@
 ## 📫 ติดต่อผม
 
 - 📧 [ChonnaveeSukyao@gmail.com](mailto:ChonnaveeSukyao@gmail.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/chonnavee-sukyao)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/chonnavee-sukyao-96b660260/)  
 - 🐙 [GitHub](https://github.com/ChonnaveeSuk)
 
 ---
