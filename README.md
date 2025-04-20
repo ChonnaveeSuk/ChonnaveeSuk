@@ -23,7 +23,6 @@
 |--------|-------------|
 | [**bachelor-thesis-project**](https://github.com/ChonnaveeSuk/bachelor-thesis-project) | Forecast buy-sell signals using ARIMAX + Bollinger Bands + ML |
 | [**VisionAI_YT-Lab**](https://github.com/ChonnaveeSuk/VisionAI_YT-Lab) | Emotion & Object Detection จาก YouTube/กล้อง ด้วย YOLOv8 + FaceMesh |
-| [**image_video_summary**](https://github.com/ChonnaveeSuk/image_video_summary) | สรุปวิดีโอด้วย Python + Docker |
 | [**intro-Data-Science-KMUTNB**](https://github.com/ChonnaveeSuk/intro-Data-Science-KMUTNB) | Workshop + Assignment ด้าน Data Science สำหรับผู้เริ่มต้น |
 
 ---
